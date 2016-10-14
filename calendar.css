@@ -1,0 +1,13 @@
+
+ul {
+	/*display: inline;*/
+	list-style: none;
+}
+
+li {
+	width: 250px;
+	height: 200px;
+	background-color: white;
+	float:left;
+	border: 5px solid #dfe7e7; 
+}
